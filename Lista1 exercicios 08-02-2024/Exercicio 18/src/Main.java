@@ -13,7 +13,10 @@ public class Main {
         System.out.println("A formula é ax+b=0 -- Informe o Valor de 'b': ");
         double valordeb = teste.nextDouble();
 
-        double res;
+        x= -valordeb/valordea;
+
+                System.out.print("Seu valor de X é: " + x);
+
 
 
 
